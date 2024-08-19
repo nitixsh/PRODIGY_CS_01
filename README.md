@@ -53,7 +53,7 @@ Enter the message: hello
 Enter the shift value: 3
 Encrypted message: khoor
 
-### Encrypting a Message
+### Decrypting a Message
 ```plaintext
 Enter the message: khoor
 Enter the shift value: 3
